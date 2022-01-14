@@ -1,0 +1,17 @@
+node_modules
+.turbo
+.next
+dist
+out
+cache
+.env
+.env.local
+coverage
+lib
+broadcast
+
+# Local / internal tooling — do not publish
+scripts/
+**/generate-history.*
+**/_fastimport*
+**/_generate*
